@@ -1,0 +1,6 @@
+integracion
+
+public void getdate(){
+
+return new date('yyy-mm-dd');
+}
